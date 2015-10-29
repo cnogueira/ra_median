@@ -17,7 +17,7 @@ Currently features benchmarking for the following algorithms:
 
 In order to execute this benchmark [elixir](http://elixir-lang.org) must be installed.
 
- 1) clone the repository.
- 2) cd to the root
- 3) run: `mix escript.build`
- 4) run: `./ra_median`
+ 1. Clone the repository.
+ 2. Change directory to the project's root
+ 3. Run: `mix escript.build`
+ 4. Run: `./ra_median`
