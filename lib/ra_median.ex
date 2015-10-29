@@ -44,7 +44,7 @@ defmodule RaMedian do
   defp show_help do
     IO.puts "Usage: '.\\ra_median [--i Iterations] [--s Size]'"
     IO.puts "Options:"
-    IO.puts "\t--i N: perform N iterations of the benchmark (default: 1k)"
+    IO.puts "\t--i N: perform N iterations of the benchmark (default: 10)"
     IO.puts "\t--s N: size of the imput vector for the benchmark (default: 1M)"
   end
 
